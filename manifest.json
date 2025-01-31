@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Conversor Real → Dólar",
+  "version": "1.0",
+  "description": "Extensão simples e prática para converter valores entre Real (BRL) e Dólar (USD) com cotação em tempo real. Ideal para acompanhar o câmbio e fazer cálculos rápidos.",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "real-dolar-converter@example.com"
+    }
+  },
+  "permissions": [],
+  "host_permissions": ["https://economia.awesomeapi.com.br/*"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "icon.png"
+    }
+  },
+  "icons": {
+    "48": "icon.png"
+  }
+}
