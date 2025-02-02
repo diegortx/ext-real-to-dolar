@@ -1,5 +1,7 @@
 # Conversor Real → Dólar (Browser Extension)
 
+- [ADICIONAR](https://addons.mozilla.org/pt-BR/firefox/addon/conversor-real-d%C3%B3lar/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
 Uma extensão para navegador que permite converter valores de Real (BRL) para Dólar (USD) usando cotação em tempo real.
 
 ## Funcionalidades
@@ -60,6 +62,11 @@ Sinta-se à vontade para contribuir com o projeto:
 3. Faça o Commit de suas mudanças (`git commit -m 'Add some AmazingFeature'`)
 4. Faça o Push para a Branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
+
+## Acessar
+
+1. - [ADICIONAR](https://addons.mozilla.org/pt-BR/firefox/addon/conversor-real-d%C3%B3lar/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
 
 ## Licença
 
